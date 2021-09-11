@@ -25,7 +25,7 @@ SECRET_KEY = '0j$miljndt2i#63&9)cx157_%7xc-4d^=qeys=_2ba@_*t&t^s'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['rentaltake.com', 'http://rentaltake.com', 'www.rentaltake.com', 'https://rentaltake.com']
 
 
 # Application definition
